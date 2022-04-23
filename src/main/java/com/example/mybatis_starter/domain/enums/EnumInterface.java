@@ -1,6 +1,6 @@
 package com.example.mybatis_starter.domain.enums;
 
-import java.util.*
+import java.util.Map;
 
 public interface EnumInterface {
 
